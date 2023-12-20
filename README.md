@@ -5,8 +5,8 @@ especificamente por email, usando alguns conceitos do Spring Boot.
 
 # Uso
 
-Java 21
-Spring Boot
+Java 21,
+Spring Boot,
 mailTrap
 
 #  Como testar?
