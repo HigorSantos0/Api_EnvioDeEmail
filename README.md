@@ -18,3 +18,8 @@ mailTrap
     Java```
      curl -X POST http://localhost:8080/email -H "Content-Type: application/json" -d '{"to": "higor@email.com", "subject": "demo Spring mail", "body": "teste email"}' -v
     ```
+
+# Funcionamento na Prática
+
+https://github.com/HigorSantos0/Api_EnvioDeEmail/assets/104693796/f894eb27-5b94-4785-8c0a-98f0ed49bf80
+
