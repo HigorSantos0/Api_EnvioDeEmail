@@ -14,6 +14,7 @@ mailTrap
 1°: Criar uma conta do emailTrap
 
 
+
 ![image](https://github.com/HigorSantos0/Api_EnvioDeEmail/assets/104693796/9c87b09a-6c07-4f97-9381-8f6753382935)
 
 2°: Por suas credenciais que foram criadas automaticamente no properties do projeto
